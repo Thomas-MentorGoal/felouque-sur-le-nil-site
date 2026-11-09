@@ -16,7 +16,18 @@
   "rtlLanguages": [
     "ar"
   ],
-  "pages": 46,
+  "pages": 64,
+  "redirects": [
+    "/en/felucca-cruise-5-days-4-nights/",
+    "/fr/croisiere-felouque-5-jours-4-nuits/",
+    "/de/felukenfahrt-5-tage-4-naechte/",
+    "/es/crucero-faluca-5-dias-4-noches/",
+    "/it/crociera-feluca-5-giorni-4-notti/",
+    "/nl/feloekatocht-5-dagen-4-nachten/",
+    "/pt/cruzeiro-falua-5-dias-4-noites/",
+    "/pl/rejs-feluka-5-dni-4-noce/",
+    "/ar/rihlat-faluka-5-ayyam-4-layali/"
+  ],
   "showPrices": false,
   "date": "2026-11-09"
 }
