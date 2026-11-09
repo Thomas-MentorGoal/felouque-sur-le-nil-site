@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thomas-mentorgoal.github.io/felouque-sur-le-nil-site/sitemap.xml
