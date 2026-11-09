@@ -10,9 +10,13 @@
     "it",
     "nl",
     "pt",
-    "pl"
+    "pl",
+    "ar"
   ],
-  "pages": 41,
+  "rtlLanguages": [
+    "ar"
+  ],
+  "pages": 46,
   "showPrices": false,
   "date": "2026-11-09"
 }
